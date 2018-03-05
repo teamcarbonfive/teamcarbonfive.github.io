@@ -113,40 +113,44 @@ span {
 
 .parallax1 {
     background-image: url(Photos/IMG_9776.JPG);
-    height: 200px;
+    height: 500px;
     max-height:500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    -webkit-background-size: 2650px 1440px;
 } 
 
 .parallax2 {
     background-image: url(Photos/IMG_9823.JPG);
-    height: 200px;
+    height: 500;
     max-height:500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    -webkit-background-size: 2650px 1440px;
 } 
 
 .parallax3 {
     background-image: url(Photos/lowfive2.gif);
-    height: 200px;
+    height: 500px;
     max-height:500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    -webkit-background-size: 2650px 1440px;
 } 
 
 .parallax4 {
     background-image: url(Photos/carbon%205%20final%20assembley2.png);
-    height: 200px;
+    height: 500px;
     max-height:500px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    -webkit-background-size: 2650px 1440px;
 } 
