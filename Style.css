@@ -113,7 +113,7 @@ span {
 
 .parallax1 {
     background-image: url(Photos/IMG_9776.JPG);
-    height: 200;
+    height: 200px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -122,7 +122,7 @@ span {
 
 .parallax2 {
     background-image: url(Photos/IMG_9823.JPG);
-    height: 200;
+    height: 200px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -131,7 +131,7 @@ span {
 
 .parallax3 {
     background-image: url(Photos/lowfive2.gif);
-    height: 200;
+    height: 200px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@ span {
 
 .parallax4 {
     background-image: url(Photos/carbon%205%20final%20assembley2.png);
-    height: 200;
+    height: 200px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
